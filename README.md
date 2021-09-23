@@ -1,5 +1,8 @@
 # Teddys-Game
-This is my first game in Scratch
+This is my first game in Scratch.
+Here is the link where you can play it: 
+https://scratch.mit.edu/projects/572673002
+
 # Dillinger
 ## The Last Markdown Editor, Ever
 
